@@ -1,2 +1,26 @@
-# Student-Grade-Manger
-Student Grade Manager is a command-line Python application designed to manage student academic records. It provides CRUD operations, grade calculation, average marks, topper identification, and persistent data storage using JSON.
+# 🎓 Student Grade Manager
+
+A simple Python project to manage student records using JSON file storage.
+
+## Features
+
+- Add Student
+- View Students
+- Update Student
+- Delete Student
+- Search Student
+- Calculate Average
+- Find Topper
+- Store Data in JSON
+
+## Technologies
+
+- Python
+- JSON
+- File Handling
+- OOP (if used)
+
+## How to Run
+
+```bash
+python main.py
